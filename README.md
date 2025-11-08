@@ -13,9 +13,8 @@
 ### 👨‍💻 关于我
 
 <div align="center">
-  <img width="100%" src="https://grs.isok.dev/api?username=faithleysath&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-
-  <img width="100%" src="https://grs.isok.dev/api/top-langs/?username=faithleysath&layout=compact&langs_count=10&theme=dracula" />
+  <img width="60%" src="https://grs.isok.dev/api?username=faithleysath&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img width="40%" src="https://grs.isok.dev/api/top-langs/?username=faithleysath&layout=compact&langs_count=10&theme=dracula" />
 </div>
 
 <br>
