@@ -23,7 +23,7 @@
 
 * 🌱 我最近在学习 **Rust**
 * 🚀 我正在开发一个关于 **Kagari** 的项目
-* 📫 如何联系我：**在这个仓库创建 issue 就行**
+* 📫 如何联系我：**在[这个仓库](https://github.com/faithleysath/faithleysath)创建 issue 就行**
 * ⚡ 有趣的事：**我喜欢斯诺克**
 
 ---
