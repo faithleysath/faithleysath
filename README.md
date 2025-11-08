@@ -52,7 +52,9 @@
 </p>
 
 ---
-
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=xiamuceer-j&theme=nord&column=7" />
+</div>
 ---
 
 <p align="center">
